@@ -1,0 +1,29 @@
+.profile-small {
+    height:150px;
+    border-radius: 50%;
+    border: 10px solid #FEDE00;
+    height: 50px;
+    width: 50px;
+ }
+
+ .logo{
+    width: 30px;
+    height: 30px;
+    padding: 25px 25px;
+    margin: 25px 25px;
+ }
+
+ .logoM{
+    margin: 20px 20px;
+    padding: 20px 20px;
+ }
+
+
+ #Middle-Menu{
+    margin: auto;
+    padding: auto;
+ }
+#Left-Menu{
+    margin: auto;
+    padding: 20%;
+}
